@@ -22,7 +22,7 @@ print((average))
 
 
 
-# string
+# string                 
 
 name = "Ritik kumar bca-III"
 
